@@ -1,0 +1,27 @@
+{
+  "title": "japanese-rag-swift (JapaneseRAGKit)",
+  "upload_type": "software",
+  "description": "A small Swift package for on-device Japanese retrieval-augmented generation on iOS and macOS: Japanese sentence chunking, ruri-v3 embeddings and a Japanese cross-encoder reranker on Core ML, an in-memory vector index and a retrieve-then-rerank pipeline. It does not include an LLM.",
+  "creators": [
+    {
+      "name": "Nakatsugawa, Masahiro",
+      "orcid": "0009-0000-3224-0103"
+    }
+  ],
+  "license": "apache-2.0",
+  "keywords": [
+    "rag",
+    "japanese",
+    "swift",
+    "core-ml",
+    "on-device",
+    "ios"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/masahiroid/japanese-rag-swift",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
