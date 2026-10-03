@@ -40,7 +40,7 @@ export is wired in; the pair encoding is implemented but untested on a model), a
 
 Requires Xcode 16+ / Swift 5.10+, iOS 17+ / macOS 14+. Dependency: [swift-transformers](https://github.com/huggingface/swift-transformers) (tokenizers).
 
-License: Apache-2.0 (matching ruri-v3). Part of [japanese-llm-security](https://github.com/masahirocom/japanese-llm-security)'s sibling work on on-device Japanese AI; code derives from [ruri-coreml](https://github.com/masahirocom/ruri-coreml).
+License: Apache-2.0 (matching ruri-v3). The embedder code derives from [ruri-coreml](https://github.com/masahirocom/ruri-coreml).
 
 ## 日本語
 
