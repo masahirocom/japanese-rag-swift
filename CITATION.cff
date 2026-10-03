@@ -13,6 +13,7 @@ abstract: >-
   does not include an LLM.
 repository-code: "https://github.com/masahiroid/japanese-rag-swift"
 license: Apache-2.0
+doi: 10.5281/zenodo.23122935
 keywords:
   - rag
   - japanese
