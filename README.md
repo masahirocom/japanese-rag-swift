@@ -40,7 +40,7 @@ export is wired in; the pair encoding is implemented but untested on a model), a
 
 Requires Xcode 16+ / Swift 5.10+, iOS 17+ / macOS 14+. Dependency: [swift-transformers](https://github.com/huggingface/swift-transformers) (tokenizers).
 
-License: Apache-2.0 (matching ruri-v3). The embedder code derives from [ruri-coreml](https://github.com/masahirocom/ruri-coreml).
+License: Apache-2.0 (matching ruri-v3). The embedder code derives from [ruri-coreml](https://github.com/masahiroid/ruri-coreml).
 
 ## 日本語
 
@@ -70,4 +70,4 @@ Apple の Foundation Models、MLX、llama.cpp などに渡す文章を選ぶ部�
 
 Xcode 16+ / Swift 5.10+、iOS 17+ / macOS 14+。依存: [swift-transformers](https://github.com/huggingface/swift-transformers)（トークナイザー）。
 
-ライセンス: Apache-2.0（ruri-v3に合わせています）。コードは [ruri-coreml](https://github.com/masahirocom/ruri-coreml) から派生しています。
+ライセンス: Apache-2.0（ruri-v3に合わせています）。コードは [ruri-coreml](https://github.com/masahiroid/ruri-coreml) から派生しています。
